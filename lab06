@@ -1,5 +1,5 @@
 '''Purpose:Write a program to create a list of student’s records and search a student record using a dictionary.
-Author:Suryansh Sharma
+Author: Pranoy Bhan
 '''
 print("-----Program for Student Information-----")
  
